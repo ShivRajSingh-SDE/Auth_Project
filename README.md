@@ -35,4 +35,4 @@ Now, create all these variables in the project and make sure you set ATLAS_URI v
 Otherwise, the project will not work.
 
 Learn More about this project from the
-[ - Daily Tuition](https://www.youtube.com/c/@dailytuition) Youtube Channel.
+[ - Portfolio](https://shivwebio.netlify.app/). 
